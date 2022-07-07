@@ -1,0 +1,4 @@
+#Thu Jul 07 17:29:34 AMT 2022
+base.0=/Users/christinevanesyan/Desktop/Github/restorable_sample/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
